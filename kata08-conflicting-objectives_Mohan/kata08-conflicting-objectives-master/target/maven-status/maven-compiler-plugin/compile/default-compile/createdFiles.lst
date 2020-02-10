@@ -1,0 +1,14 @@
+org\example\readable\EnglishDictionary.class
+org\example\readable\WordSplitter.class
+org\example\extensible\WordSplit.class
+org\example\performance\WordPair.class
+org\example\performance\WordSplitter.class
+org\example\extensible\EnglishDictionary.class
+org\example\readable\WordPair.class
+org\example\extensible\WordSplitter.class
+org\example\extensible\SplitOperation.class
+org\example\file\DictionaryFile.class
+org\example\extensible\Dictionary.class
+org\example\performance\EnglishDictionary.class
+org\example\extensible\Options.class
+org\example\extensible\TwoSplitOperation.class

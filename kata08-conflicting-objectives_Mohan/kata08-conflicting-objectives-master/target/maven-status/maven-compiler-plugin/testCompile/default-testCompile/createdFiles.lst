@@ -1,0 +1,4 @@
+org\example\performance\WordSplitterTests.class
+org\example\readable\WordSplitterTests.class
+org\example\readable\WordPairTests.class
+org\example\extensible\WordSplitterTests.class
