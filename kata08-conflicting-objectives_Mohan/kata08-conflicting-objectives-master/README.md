@@ -2,10 +2,12 @@
 
 http://codekata.com/kata/kata08-conflicting-objectives/
 
+# Run complete. Total time: 00:20:59
+
 Benchmark                     Mode  Cnt    Score   Error  Units
-- MyBenchmark.testExtensible   thrpt  200   64,192 ± 0,506  ops/s
-- MyBenchmark.testPerformance  thrpt  200  128,993 ± 0,929  ops/s
-- MyBenchmark.testReadable     thrpt  200  106,806 ± 0,695  ops/s
+MyBenchmark.testExtensible   thrpt  200  129.879 � 3.430  ops/s
+MyBenchmark.testPerformance  thrpt  200  272.972 � 7.312  ops/s
+MyBenchmark.testReadable     thrpt  200  217.398 � 9.089  ops/s
 
 # Explanation
 * "Readable" is the solution that is the easiest to understand.
